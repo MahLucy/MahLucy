@@ -2,7 +2,8 @@
 
 ##
 
-<text> Eu tenho 19 anos, sempre tive curiosidade em mexer em computadores, sou instaladora profissional de Windows (sempre com um backup no pendrive), comecei com um Técnico de informática que me fez ter contato com HTML e CSS, desde então não consigo mais sair dessa área que se tornou minha paixão. Recentemente ingressei em Ciência da Computação onde passo maior parte do meu tempo testando minha paciência em caçar bugs e decorar códigos. Me divirto cada vez 
+<text> Tenho 19 anos, sou instaladora profissional de Windows (sempre com um backup no pendrive) sempre tive curiosidade em mexer em computadores, durante o ensino médio, participei da Olimpíada Brasileira de Robótica (OBR), na modalidade prática, pelo SESI - SP, onde a minha equipe ganhou na modalidade de melhor organização de um programa. 
+Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeiro contato com HTML e CSS, desde então não consigo mais sair dessa área da programação que se tornou minha paixão. Recentemente ingressei em Ciência da Computação onde passo maior parte do meu tempo testando minha paciência em caçar bugs e decorar códigos. Me divirto cada vez.
 
 "A tecnologia move o mundo!" - Jobs, Steve. 🚀💻</text>
 
