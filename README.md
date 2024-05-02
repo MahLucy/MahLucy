@@ -2,7 +2,7 @@
 
 ##
 
-<text> Tenho 20 anos, sou instaladora profissional de Windows (sempre com um backup no pendrive) sempre tive curiosidade em mexer em computadores, durante o ensino médio, participei da Olimpíada Brasileira de Robótica (OBR), na modalidade prática, pelo SESI - SP, onde a minha equipe ganhou na modalidade de melhor organização de um programa. 
+<text> Tenho 21 anos, sou instaladora profissional de Windows (sempre com um backup no pendrive) sempre tive curiosidade em mexer em computadores, durante o ensino médio, participei da Olimpíada Brasileira de Robótica (OBR), na modalidade prática, pelo SESI - SP, onde a minha equipe ganhou na modalidade de melhor organização de um programa. 
 Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeiro contato com HTML e CSS, desde então não consigo mais sair dessa área da programação que se tornou minha paixão. Recentemente ingressei em Ciência da Computação onde passo maior parte do meu tempo testando minha paciência em caçar bugs e decorar códigos. Me divirto cada vez.
 
 "A tecnologia move o mundo!" - Jobs, Steve. 🚀💻</text>
@@ -16,21 +16,28 @@ Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeir
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODE.JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT.JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "ANGULAR.JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title = "UBUNTU"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "FIGMA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title = "WORDPRESS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "PHOTOSHOP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title = "PREMIERE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title = "AFTEREFFECTS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title = "BLENDER"/></code>
+
 
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tenho estudado Java ulitmamante e iniciei meus estudos com linguagem HTML & CSS;</p>
+ <p align="left">📚 Tenho estudado Angular e node ulitmamante e iniciei meus estudos em Angular ;</p>
  <p align="left">♐ Signo de Sagitário com ascedente com a cabeça nas nuvens.</p>
  <p align="left">💻 Comecei minhas aventuras com meu pai, montando computadores e instalando Windows. Sou admiradora da tecnologia, caso queira conversar, compartilhar códigos, me dá recomendações de livros ou até mesmo pedir um ajudinha, pode me encontrar aqui: <a href="https://www.instagram.com/mah_luccy/">Instagram</a>. Segue lá e vamos crescer juntas!</p>
  
