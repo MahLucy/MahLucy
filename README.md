@@ -2,8 +2,8 @@
 
 ##
 
-<text> Tenho 21 anos, sou instaladora profissional de Windows (sempre com um backup no pendrive) sempre tive curiosidade em mexer em computadores, durante o ensino médio, participei da Olimpíada Brasileira de Robótica (OBR), na modalidade prática, pelo SESI - SP, onde a minha equipe ganhou na modalidade de melhor organização de um programa. 
-Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeiro contato com HTML e CSS, desde então não consigo mais sair dessa área da programação que se tornou minha paixão. Recentemente ingressei em Ciência da Computação onde passo maior parte do meu tempo testando minha paciência em caçar bugs e decorar códigos. Me divirto cada vez.
+<text> Tenho 22 anos, sou uma profissional de Tecnologia apaixonada por inovação e desafios! Durante o ensino médio, participei da Olimpíada Brasileira de Robótica (OBR), na modalidade prática, pelo SESI - SP, onde a minha equipe ganhou na modalidade de melhor organização de um programa. 
+Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeiro contato com HTML e CSS, desde então não consigo mais sair dessa área da programação que se tornou minha paixão. Recentemente me formei em Ciência da Computação e agora passo maior parte do meu tempo testando minha paciência em caçar bugs e a programar. Me divirto cada vez.
 
 "A tecnologia move o mundo!" - Jobs, Steve. 🚀💻</text>
 
@@ -37,7 +37,7 @@ Após isso, comecei um Técnico de Comunicação Visual que me fez ter o primeir
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tenho estudado Angular e node ulitmamante e iniciei meus estudos em Angular ;</p>
+ <p align="left">📚 Tenho estudado Angular e Java ulitmamante e iniciei meus estudos em DevOps;</p>
  <p align="left">♐ Signo de Sagitário com ascedente com a cabeça nas nuvens.</p>
  <p align="left">💻 Comecei minhas aventuras com meu pai, montando computadores e instalando Windows. Sou admiradora da tecnologia, caso queira conversar, compartilhar códigos, me dá recomendações de livros ou até mesmo pedir um ajudinha, pode me encontrar aqui: <a href="https://www.instagram.com/mah_luccy/">Instagram</a>. Segue lá e vamos crescer juntas!</p>
  
